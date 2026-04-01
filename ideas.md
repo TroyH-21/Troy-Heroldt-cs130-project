@@ -12,7 +12,7 @@ Data of Arabica and Robusta beans, across countries and their professional ratin
 
 **Answer:**
 
-I will write a function **avg_total_coffee_score(country)**, that accepts a **country** paramater. The fucntion will loop through the .csv file and check if the coffee bean entry is from **country**. If it is it will add it to a **total_score** variable and up the **count** by one. At the end of the loop it will find countries average total score by calculating **total_score/country**.
+I will write a function **avg_total_coffee_score(country)**, that accepts a **country** paramater. The fucntion will loop through the .csv file and check if the coffee bean entry is from **country**. If it is it will add it to a **total_score** variable and up the **count** by one. At the end of the loop it will find countries average total score by calculating **total_score/count**.
 
 I can create a list that contains every countries name only once and run a loop on the **avg_total_coffee_score(country)** function to get an average total score of every country, and save each average total score to a list.
 
