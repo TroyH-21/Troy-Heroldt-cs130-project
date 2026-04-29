@@ -20,6 +20,12 @@ I now have to lists with all the results I need (country name, average total sco
 
 2.  Which factor, flavor, aftertaste or sweetness, inlfuences the overall coffee score the most?
 
+### Visualization ideas for article:
+* Bar chart showing the top 10 countries with the higher average total coffee score
+* Look at the processing methods and see how that effects one of the scores (i.e. aroma, flavor, acidity etc.)
+* Do something with altitude and its affect on acidity or flavor score (pick one) - [Article on altitude and coffee](https://www.stokedroasters.com/blogs/news/coffee-guide-altitudes-affect-on-beans?srsltid=AfmBOopQ2AWq_wmvzA1HyfgORmxws2qFYV_cSuG8J_WBAOELAZBghEYT)
+
+
 ### [Video Game Data](https://corgis-edu.github.io/corgis/csv/video_games/)
 
 Details the sales, rating and playtime of over a thousand video games released between 2004 and 2010.
@@ -28,3 +34,4 @@ Details the sales, rating and playtime of over a thousand video games released b
 
 1. What video game takes the longest time to complete?
 2. What video game has the best resell value, and is nostalgia the reason?
+
