@@ -20,8 +20,17 @@ To efficiently store this data for each country I decided to create a dictionary
 
 ### Altitude Grouping
 
+There are too many unique altitudes to graph them all with their corresponding acidity and flavor scores. In order to clean up the data I decided to group entries into certain altitude bounds namely, **very low** ($<2000ft$), **low** ($2000ft-2500ft$), **medium** ($2500ft-3000ft$), **high** ($3000ft-4000ft$) and **very high** ($>4000ft$). Once I made groupings I created new dataframes for each altitude grouping using:
+
+```python
+very_low_altitude = data.loc[coffee["Altitude"] < 2000]
+```
+
+From there I can create my double-bar chart by pulling data from each altitude dataframe.
 
 ### Flavor and Aftertaste Data
+
+The beauty of a scatter plot is letting the pure numerical data tell the story for you. The only data clean up I had to perform was ensuring there were no 0 or Nan values to skew data. After removing these values I could plot the flavor and aftertaste for each coffee bean in the dataset.
 
 ## **Assumptions**
 
@@ -29,4 +38,4 @@ To efficiently store this data for each country I decided to create a dictionary
 
 ## **Limitations**
 
-- Limitations: A list of issues you uncovered during your analysis that indicate perhaps you don't have a complete understanding of the data you're analyzing. For example, if you assumed December 2023 is 12/1/2023, perhaps that alters your understanding of a particular timeline of events.
+The dataset of coffee beans contains mainly speciality coffee beans with a few commercial grade beans. This means all my data comparison is ranking and analyzing the best of the best when it comes to coffee beans. This information might not be useful to he average coffee drinker who buys whatever coffee they can find in a store. A larger dataset with beans all the way from low commercial grade to the top speciality beans, can give a better picture and comparison for all types of coffee drinkers.
