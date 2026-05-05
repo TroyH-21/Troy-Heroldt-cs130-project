@@ -2,7 +2,7 @@
 
 ## **Data Sources**
 
-- **Coffee Origins:** There are hundreds of factors that go into producing the perfect coffee bean, and this [dataset ](coffee.csv) covers it all for a wide variety of beans. Detailing coffee bean type, area of origin, and important geographical information like altitude. Beans are also classified by their region and owner, coupled with various ratings scores across several factors like acidity, sweetness, flavor, and aftertaste.
+- **Coffee Origins:** There are hundreds of factors that go into producing the perfect coffee bean, and this [dataset ](coffee.csv) covers it all for a wide variety of beans. Detailing coffee bean type, area of origin, and important geographical information like altitude. Beans are also classified by their region and owner, coupled with various ratings scores across several factors like acidity, sweetness, flavor, and aftertaste. I obtained this dataset from the CORGIS datasets project created via GitHub.io.
 
 - **Specialty Coffee:** The Specialty Coffee Association developed a [coffee cupping socre](https://nerdjava.co/specialty-cup-score/?srsltid=AfmBOopFYJzcq5qGGH6PWeonyKtTn3lmcludW_d91kgzAvYISu6MYAYM) ranging from 0 to 100. A score of 80 or above gets the badge of honor known as the "specialty coffee." Any coffee below that benchmark is considered Commercial-grade coffee.
 
