@@ -37,3 +37,9 @@ The question is, is there anyway to determine if this is a unique experience to 
 ![A Scatterplot showing flavor vs aftertaste scores](flavorVsAftertaste.png)
 
 As you can see from this scatterplot there is a strong positive correlation between flavor and aftertaste, thus cementing my coffee tastebuds amongst the experts of this world. It is evident that flavor and aftertaste work hand in hand to balance the coffee and create the perfect blend.
+
+### Conclusion
+
+After lookig through all the components that make up a bag of coffee, it is clear that it goes far beyond picking the coolest looking bag in the store. As the data shows, the ideal coffee is deeply influenced by geography. Picking beans from heavywieght, high quality producers like Ethiopia, Kenya, or the high mountains of Colombia and Guatemala will always be a safe bet. Furthermore checking the labels to find your ideal altitude window is very importantm if you want to find that ideal 4500ft zone where acidity and flavor reach its peak.
+
+So for my next late-night study session or early morning rugby match, I'm gonna make sure I skip the commercial grade stuff. I will Look for the altitude, check the origin, and let the data brew me the perfect cup of coffee.
