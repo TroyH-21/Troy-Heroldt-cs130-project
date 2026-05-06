@@ -4,8 +4,22 @@
 
 College has been a life changing experience, but has also added a lot of stress to my life. From the early morning rugby games, to late night study sessions it is often hard to find the energy to keep going. Fortunately college brought to me the world of coffee. Now I am by no means a coffee expert, but I will become one today. Through research into the coffee making process, from where the beans are grown to how they are processed. Join me as I put on my coffee snob glasses, and guide you to finding the perfect coffee bean.
 
-![A double bar graph of acidity and flavor at different altitudes](AcidityFlavor_vsAltitude.png)
+In order to navigate the ratings off these coffee beans effectively I will establish the benchmark I am using. The _coffee cupping score_ was developed by the [Specialty Coffee Association](https://sca.coffee) who created a 0-100 scale to rate coffee beans. They created the "specialty coffee" badge of honor. Which is awarded to any coffee bean that achieves a socre of 80 points or higher, and declares a bean commercial-grade if it falls below.
+
+### Best country to source your coffee bean
+
+I have denoted the _specialty coffee_ threshold to indicate which countries coffee beans are high-grade vs commercial-grade. As you can see from the visual we are predominantly dealing with specialty grade coffees, making it necessary to zoom in on scores and see where the best of the best separate.
+
+Most of the results make perfect sense. We can see a country like Ethiopia coming in second. Ethiopia are renowned for their premier coffee culture, giving birth to the popular Arabica coffee. The United States and Kenya also rank in the top percentiles primarilty known for their Hawaiian Kona beans. All these regions meet the specialty-grade threshold.
+
+These rankings should be taking lightly. They paint a good picture but do not give us a true ranking, due to the inconsistencies in beans for each country. Some countries like the heavyweights in the coffee bean industry (Brazil, Colombia, Guatemala, and Mexico), have hundreds of beans in the dataset but the top ranked country, Papa New Guinea had only one rated bean, compared to Columbia's 128. If you look at average scores for these heavyweight countries they sit slightly lower than the statistical top performers. This isn't because their coffee is worse but because they have massive sample sizes. When a country produces hundreds of different specialty beans, their average will naturally level out. These countries are the heavyweights for a reason and are the backbone of the global specialty coffee industry.
 
 ![A horizontal bar graph of countries specialty score](avgTotal_coffeeScore.png)
+
+While this graph tell us geographically who is the best of the best, a high country doesn't not garuntee the best bean. There are many more factors to account for. The country of origin gets the bean started, but as we look closely at the data, we realize that where the bean is grown within that country, specifically how high up in the mountains, might be the real secret to a perfect cup.
+
+### The Altittude Authority
+
+![A double bar graph of acidity and flavor at different altitudes](AcidityFlavor_vsAltitude.png)
 
 ![A Scatterplot showing flavor vs aftertaste scores](flavorVsAftertaste.png)
