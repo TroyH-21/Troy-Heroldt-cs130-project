@@ -30,4 +30,10 @@ Accodring to the visulization above you can see that higher altitude still remai
 
 ### The Flavor and Aftertaste Dynamic
 
+Taking a step deeper into the bean process, I step away from a farms effect on the bean to the final product. Despite my novice coffee tastebuds, the first thing I notice with every sip of coffee is that intial flavor, and then the taste lingers afterwards. In my expereicne I have found that if the intial flavor doesn't taste good it typically ruins the aftertaste, and if the aftertaste is to bitter or strong, it can dampen the flavor you tasted before.
+
+The question is, is there anyway to determine if this is a unique experience to me, or if even the expert coffee drinkers rate flavor and aftertaste accordingly. Fortunately there are ratings that can build this picture for us.
+
 ![A Scatterplot showing flavor vs aftertaste scores](flavorVsAftertaste.png)
+
+As you can see from this scatterplot there is a strong positive correlation between flavor and aftertaste, thus cementing my coffee tastebuds amongst the experts of this world. It is evident that flavor and aftertaste work hand in hand to balance the coffee and create the perfect blend.
