@@ -20,6 +20,8 @@ While this graph tell us geographically who is the best of the best, a high coun
 
 ### The Altittude Authority
 
+To move away from the large geographical outlook off coffee beans, I want to zoom in and look at specific farms, and see the effect altitude has on bean growth. According to Nik Stopsack in his [coffee guide](https://www.stokedroasters.com/blogs/news/coffee-guide-altitudes-affect-on-beans?srsltid=AfmBOopQ2AWq_wmvzA1HyfgORmxws2qFYV_cSuG8J_WBAOELAZBghEYT) beans grown at higher altitudes tend to be higher quality with more complex flavor notes, than beans grown at lower altitudes. This is due to water and temperature. At higher altitudes cooler temperatures slow the growth of coffee plants, casuing the plant to focus more on reproduction. When the plant focuses more energy to bean production it produces more sugars which gives higher quality flavors to the bean. Higher altitudes also have better drainage from rain, which means the coffee plants take in less water which means the beans flavor is concentrated in the sugars.
+
 ![A double bar graph of acidity and flavor at different altitudes](AcidityFlavor_vsAltitude.png)
 
 ![A Scatterplot showing flavor vs aftertaste scores](flavorVsAftertaste.png)
