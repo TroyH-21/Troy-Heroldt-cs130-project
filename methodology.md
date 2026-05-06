@@ -18,7 +18,9 @@
 
 - Now that I know all the countries I need to find a score for, I can sort through the total scores of the coffee. This part required more detailed data processing. I decided to write a function that will take in a country and a dataset and calculate the average specialty score for that country. The function involved parsing through the dataset line by line and checking if the first column was equal to the country we are searching for. If true, I would find the column with the total score and convert it to a float for decimal accuracy.
 
-* Then I would add it to a total score variable. I also kept a count of how many different beans were associated with each country. After parsing through the whole dataset, I can find the average total score for that country by calculating $$\frac{Total Score}{Count}$$
+* Then I would add it to a total score variable. I also kept a count of how many different beans were associated with each country. After parsing through the whole dataset, I can find the average total score for that country by calculating 
+
+$$\frac{Total Score}{Count}$$
 
 - To efficiently store this data for each country, I decided to create a dictionary using the country as the key and its average specialty score as the value. The dictionary makes it easy to look up the specialty score for any country.
 
